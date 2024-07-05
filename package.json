@@ -2,9 +2,9 @@
   "name": "1intro-to-node",
   "version": "1.0.0",
   "description": "intro to node",
-  "main": "1index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node 1index.js"
+    "start": "node index.js"
   },
   "author": "pragnesh rana",
   "license": "ISC",
